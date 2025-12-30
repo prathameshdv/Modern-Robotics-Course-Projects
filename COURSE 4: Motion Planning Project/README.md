@@ -56,7 +56,8 @@ This project implements a **graph-based path planning system** using the **A\* (
 - The final shortest path is written to a CSV file.
 - The output can be used for visualization or further analysis.
 
-<img width="768" height="579" alt="Screenshot from 2025-12-31 02-10-27" src="https://github.com/user-attachments/assets/9825d928-514c-4b55-bc2e-9fa9036c937a" />
+<img width="1323" height="836" alt="scene5_solution" src="https://github.com/user-attachments/assets/f50ab7c9-acf6-4192-9649-8270710428f1" />
+
 
 ---
 
