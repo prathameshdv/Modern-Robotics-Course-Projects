@@ -104,5 +104,6 @@ The plot below shows the six components of the end-effector configuration
 error \(X_{\text{err}}\) over time, demonstrating convergence of both
 position and orientation errors.
 
-📄 **Error Plot:** [`Xerr_plot.pdf`](results/Xerr_plot.pdf)
+📄 **Error Plot:** [<img width="768" height="579" alt="image" src="https://github.com/user-attachments/assets/62bb0f20-bc0f-4afd-8cb0-928cd18450fd" />
+
 
