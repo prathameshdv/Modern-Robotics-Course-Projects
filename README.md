@@ -1,4 +1,4 @@
-#  Mobile Manipulation Capstone Project (youBot)
+#  Mobile Manipulation Capstone Project 
 
 This repository contains my implementation of the **Modern Robotics Capstone Project**, where a **KUKA youBot mobile manipulator** performs an autonomous **pick-and-place task** using task-space feedback control and screw-theoretic trajectory planning.
 
@@ -82,7 +82,7 @@ where:
 
 ## 📊 Results
 
-### 🎥 Full System Demonstration
+### Full System Demonstration
 
 <video src="results/demo_full_run.mp4" controls width="700">
 Your browser does not support the video tag.
@@ -96,7 +96,7 @@ manipulator arm.
 
 ---
 
-### 📈 End-Effector Tracking Error
+###  End-Effector Tracking Error
 
 The plot below shows the six components of the end-effector configuration
 error \(X_{\text{err}}\) over time, demonstrating convergence of both
