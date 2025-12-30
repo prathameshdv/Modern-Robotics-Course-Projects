@@ -84,7 +84,7 @@ where:
 
 ### Full System Demonstration
 
-[[Capstone Demo](Capstone%20Project/results/best/video_preview.png)](
+[![Capstone Demo](Capstone%20Project/results/best/video_preview.png)](
 https://raw.githubusercontent.com/prathameshdv/Modern-Robotics-Course-Projects/main/Capstone%20Project/results/best/CAPSTONE%20PROJECT.mp4
 )
 
