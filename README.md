@@ -106,4 +106,3 @@ position and orientation errors.
 
 [<img width="768" height="579" alt="image" src="https://github.com/user-attachments/assets/62bb0f20-bc0f-4afd-8cb0-928cd18450fd" />
 
-
