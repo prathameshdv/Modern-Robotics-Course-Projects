@@ -84,7 +84,7 @@ where:
 
 ### Full System Demonstration
 
-<video src="results/demo_full_run.mp4" controls width="700">
+<video src="https://github.com/prathameshdv/Modern-Robotics-Course-Projects/raw/main/Capstone%20Project/results/best/CAPSTONE%20PROJECT.mp4" controls width="700">
 Your browser does not support the video tag.
 </video>
 
