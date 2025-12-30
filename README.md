@@ -84,9 +84,9 @@ where:
 
 ### Full System Demonstration
 
-<video src="https://github.com/prathameshdv/Modern-Robotics-Course-Projects/raw/main/Capstone%20Project/results/best/CAPSTONE%20PROJECT.mp4" controls width="700">
-Your browser does not support the video tag.
-</video>
+[![Capstone Demo](Capstone%20Project/results/best/video_preview.png)](
+https://raw.githubusercontent.com/prathameshdv/Modern-Robotics-Course-Projects/main/Capstone%20Project/results/best/CAPSTONE%20PROJECT.mp4
+)
 
 This video shows the complete execution of the mobile manipulation task in
 CoppeliaSim, including navigation, grasping, transportation, and placement
