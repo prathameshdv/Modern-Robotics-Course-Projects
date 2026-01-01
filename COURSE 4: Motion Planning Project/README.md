@@ -64,3 +64,9 @@ This project implements a **graph-based path planning system** using the **A\* (
 ## Summary
 This project demonstrates how **A\*** search, **graph theory**, and **geometric collision checking** can be combined to solve a practical path planning problem in continuous space.
 
+### Certification
+
+
+
+[Coursera FAF37T3PELMZ.pdf](https://github.com/user-attachments/files/24402024/Coursera.FAF37T3PELMZ.pdf)
+
